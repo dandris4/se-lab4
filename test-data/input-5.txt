@@ -1,0 +1,3 @@
+# If ammo is only in the second storage, it will fire also
+GT4500,0,0,1,0
+TORPEDO,SINGLE

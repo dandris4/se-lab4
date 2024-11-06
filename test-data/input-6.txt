@@ -1,0 +1,6 @@
+# If one of them fails, it fires with the other
+GT4500,2,1,2,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE

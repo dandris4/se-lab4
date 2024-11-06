@@ -1,0 +1,3 @@
+# Firing in unknown mode
+GT4500,1,0,1,0
+TORPEDO,FIRE

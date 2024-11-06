@@ -1,0 +1,2 @@
+SUCCESS # <- FIRE
+Unknown firing mode: 'FIRE'    # <- SINGLE

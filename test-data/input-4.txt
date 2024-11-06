@@ -1,0 +1,4 @@
+# both ammo consumed if fired with all
+GT4500,1,0,1,0
+TORPEDO,ALL
+TORPEDO,SINGLE

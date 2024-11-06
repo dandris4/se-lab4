@@ -1,0 +1,2 @@
+# Firing without ship
+TORPEDO,SINGLE
